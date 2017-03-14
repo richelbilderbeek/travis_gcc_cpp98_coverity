@@ -23,3 +23,4 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 More complex builds:
  * No Coverity Scan: [travis_qmake_gcc_cpp98](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98)
+ * Use C++14 and qmake: [travis_qmake_gcc_cpp14_coverity](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_coverity)
