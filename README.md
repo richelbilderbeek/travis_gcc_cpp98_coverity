@@ -1,8 +1,10 @@
 # travis_gcc_cpp98_coverity
 
-[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo](Codecov.png)](https://www.codecov.io)
+---|---|---
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp98_coverity.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp98_coverity)|[![codecov.io](https://codecov.io/github/richelbilderbeek/travis_gcc_cpp98_coverity/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/travis_gcc_cpp98_coverity/branch/master)
+coverity_scan|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp98_coverity.svg?branch=coverity_scan)](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp98_coverity)|[![codecov.io](https://codecov.io/github/richelbilderbeek/travis_gcc_cpp98_coverity/coverage.svg?branch=coverity_scan)](https://codecov.io/github/richelbilderbeek/travis_gcc_cpp98_coverity/branch/coverity_scan)
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp98_coverity.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp98_coverity)
 <a href="https://scan.coverity.com/projects/richelbilderbeek-travis_gcc_cpp98_coverity">
   <img alt="Coverity Scan Build Status"
        src="https://scan.coverity.com/projects/12045/badge.svg"/>
