@@ -1,0 +1,7 @@
+language: cpp
+
+compiler: gcc
+
+script: 
+  - g++ main.cpp -o travis_gcc_cpp98_coverity
+  - ./travis_gcc_cpp98_coverity
